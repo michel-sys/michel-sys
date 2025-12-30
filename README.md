@@ -14,17 +14,8 @@
 - 💡 Criando o projeto **Block Book**  
 - 🖥️ Estudando desenvolvimento tech  
 
----
 
-## 🔥 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=michel-sys&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michel-sys&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
 ---
 
@@ -35,15 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 
----
 
-## 📦 Repositórios
-
-<p align="center">
-  <a href="https://github.com/michel-sys/Block-Book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michel-sys&repo=Block-Book&theme=dark&hide_border=true" />
-  </a>
-</p>
 
 ---
 
