@@ -45,9 +45,10 @@ I enjoy learning new programming languages, building projects, and improving my 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michel-sys&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michel-sys&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michel-sys&theme=github_dark" />
 </p>
+
+
 
 ---
 
