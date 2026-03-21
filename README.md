@@ -45,7 +45,7 @@ I enjoy learning new programming languages, building projects, and improving my 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michel-sys&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0d3xrz&theme=github_dark" />
 </p>
 
 
