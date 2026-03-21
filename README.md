@@ -55,7 +55,7 @@ I enjoy learning new programming languages, building projects, and improving my 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/michel-sys" target="_blank">
+  <a href="https://github.com/c0d3xrz" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/michelrezini/" target="_blank">
